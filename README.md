@@ -22,12 +22,12 @@ Location: ./NAB-master/data\realTweets\Twitter_volume_IBM.csv
 
 File Name: Twitter_volume_IBM.csv
 
-### LSTM prediction
+### LSTM predictions
 ![alt text](https://github.com/YassineCodes/correctorLSTM/blob/main/results/LSTM_pred.png) 
 
 LSTM RMSE --  1.3540998728929288
 
-### corrector LSTM
+### corrector LSTM predictions
 ![alt text](https://github.com/YassineCodes/correctorLSTM/blob/main/results/cLSTM_pred.png) 
 
 cLSTM RMSE --  0.43897822008515075
