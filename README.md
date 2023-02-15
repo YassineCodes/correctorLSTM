@@ -1,6 +1,6 @@
 # correctorLSTM (cLSTM)
 This repository includes corrector LSTM (cLSTM) with a running example on NAB. 
-cLSTM is a machine learning algorithm with read and write priviledges. The algorith operates in two modes: Learning and Correcting. The learning mode corresponds to a standard LSTM. At the end of a given epoch, the correcting mode is triggered. The latter has two stages: detection and correction.
+cLSTM is a machine learning algorithm with read and write priviledges. The algorithm operates in two modes: Learning and Correcting. The learning mode corresponds to a standard LSTM. At the end of a given epoch, the correcting mode is triggered. The latter has two stages: detection and correction.
 The algorithm continue the learning after its corrections are done.
 
 ![alt text](https://github.com/YassineCodes/correctorLSTM/blob/main/results/cLSTM.png)
